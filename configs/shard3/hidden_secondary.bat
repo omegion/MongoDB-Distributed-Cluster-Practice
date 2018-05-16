@@ -1,0 +1,1 @@
+C:\mongo\server\3.2\bin\mongod.exe --dbpath C:\mongo\data\shard3\hidden_secondary --port 27115 --replSet "rs2" --shardsvr

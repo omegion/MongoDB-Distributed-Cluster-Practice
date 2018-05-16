@@ -1,0 +1,1 @@
+C:\mongo\server\3.2\bin\mongod.exe --dbpath C:\mongo\data\shard2\arbiter --port 27110 --replSet "rs1" --shardsvr

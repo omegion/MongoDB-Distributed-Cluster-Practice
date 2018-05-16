@@ -1,0 +1,1 @@
+C:\mongo\server\3.2\bin\mongod.exe --dbpath C:\mongo\data\config\primary --port 27121 --configsvr --replSet configReplSet

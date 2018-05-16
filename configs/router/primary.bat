@@ -1,0 +1,1 @@
+C:\mongo\server\3.2\bin\mongos.exe --configdb configReplSet/localhost:27121,localhost:27122,localhost:27123 --port 27131 --pidfilepath C:\mongo\data\router\mongos.pid
